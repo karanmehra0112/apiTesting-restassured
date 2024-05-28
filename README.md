@@ -62,7 +62,7 @@ sample-api-test-project/
 2. Select the workflow.
 4. Click on the "Run workflow".
 
-![alt text](image.png)
+![alt text](docs/image.png)
 
 
 ## Instructions for getting extent report
@@ -72,4 +72,4 @@ sample-api-test-project/
 4. Zip will be downloaded.
 5. Extract the zip and open the "extent-reports.html".
 
-![alt text](image-1.png)
+![alt text](docs/image-1.png)
