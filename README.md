@@ -55,3 +55,21 @@ sample-api-test-project/
    mvn clean test
    ```
 5. After executing the above command, Extent report will be generated in the root directory with the name "extent-reports.html".
+
+
+## Instructions for Running Tests on GitHub Actions
+1. Go to the Actions .
+2. Select the workflow.
+4. Click on the "Run workflow".
+
+![alt text](image.png)
+
+
+## Instructions for getting extent report
+1. Click on the Github Actions tests run.
+2. Scroll down the page to Artifacts.
+3. Click on the "extent-report".
+4. Zip will be downloaded.
+5. Extract the zip and open the "extent-reports.html".
+
+![alt text](image-1.png)
